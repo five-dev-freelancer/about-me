@@ -116,8 +116,8 @@ I build high-performance FiveM resources, modern web applications, custom game s
 ## 📫 Connect
 
 ```text
-Discord: your_discord
-GitHub: github.com/YOUR_USERNAME
+Discord: ubu_dev
+GitHub: https://github.com/five-dev-freelancer
 ```
 
 ---
