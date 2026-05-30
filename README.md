@@ -17,7 +17,7 @@
 ## 💫 About Me
 
 ```yaml
-Name: George
+Name: James
 Role: FiveM Developer
 Specialties:
   - Lua Development
