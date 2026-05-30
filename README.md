@@ -1,13 +1,13 @@
-# 👋 Hey, I'm George
+# 👋 Hey, I'm Win
 
 <div align="center">
 
 # 🚀 FiveM Developer | Full Stack Developer | Lua Programmer
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=five-dev-freelancer&label=Profile%20Views&color=blue&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/five-dev-freelancer?style=for-the-badge" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/five-dev-freelancer?style=for-the-badge" alt="stars"/>
 </p>
 
 </div>
